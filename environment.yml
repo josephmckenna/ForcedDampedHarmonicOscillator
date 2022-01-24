@@ -1,0 +1,11 @@
+name: ForcedDampedHarmonicOscillator
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupytext
+  - jupyterlab
+  - python
+  - numpy
+  - matplotlib-base
+  - ipympl
